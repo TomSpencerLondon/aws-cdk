@@ -3235,10 +3235,10 @@
   dependencies:
     string-width "*"
 
-"@types/table@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@types/table/-/table-5.0.0.tgz#67c3821138eb41d538c3d9286771c6cdeeac7172"
-  integrity sha512-fQLtGLZXor264zUPWI95WNDsZ3QV43/c0lJpR/h1hhLJumXRmHNsrvBfEzW2YMhb0EWCsn4U6h82IgwsajAuTA==
+"@types/table@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@types/table/-/table-6.0.0.tgz#c3e8f1e0d80525036a7655fd650409e0230f1ead"
+  integrity sha512-RSmRiYetRzpcZcgNo4x6C1VSsPGBHCGGDO7Rbnz5esVLbGONxBP1CUcn8JhAkVzUVLO+AY8yOSkb27jvfauLyg==
 
 "@types/uuid@^8.3.0":
   version "8.3.0"
@@ -7631,7 +7631,7 @@ ignore@^4.0.3, ignore@^4.0.6:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-4.0.6.tgz#750e3db5862087b4737ebac8207ffd1ef27b25fc"
   integrity sha512-cyFDKrqc/YdcWFniJhzI42+AzS+gNwmUzOSFcRCQYwySuBBBy/KjuxWLZ/FHEH6Moq1NizMOBWyTcv8O4OZIMg==
 
-ignore@^5.1.1, ignore@^5.1.4, ignore@^5.1.8:
+ignore@^5.1.4, ignore@^5.1.8:
   version "5.1.8"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
